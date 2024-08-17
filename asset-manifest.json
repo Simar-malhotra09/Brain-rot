@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/brain-rot/static/css/main.f855e6bc.css",
-    "main.js": "/brain-rot/static/js/main.0d91088a.js",
-    "static/js/453.ed3810f9.chunk.js": "/brain-rot/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/brain-rot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/brain-rot/index.html",
-    "main.f855e6bc.css.map": "/brain-rot/static/css/main.f855e6bc.css.map",
-    "main.0d91088a.js.map": "/brain-rot/static/js/main.0d91088a.js.map",
-    "453.ed3810f9.chunk.js.map": "/brain-rot/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Brain-rot/static/css/main.f855e6bc.css",
+    "main.js": "/Brain-rot/static/js/main.5130857f.js",
+    "static/js/453.ed3810f9.chunk.js": "/Brain-rot/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/Brain-rot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Brain-rot/index.html",
+    "main.f855e6bc.css.map": "/Brain-rot/static/css/main.f855e6bc.css.map",
+    "main.5130857f.js.map": "/Brain-rot/static/js/main.5130857f.js.map",
+    "453.ed3810f9.chunk.js.map": "/Brain-rot/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0d91088a.js"
+    "static/js/main.5130857f.js"
   ]
 }
