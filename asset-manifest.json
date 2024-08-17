@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brain-rot/static/css/main.f855e6bc.css",
+    "main.js": "/brain-rot/static/js/main.68e778f9.js",
+    "static/js/453.ed3810f9.chunk.js": "/brain-rot/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/brain-rot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brain-rot/index.html",
+    "main.f855e6bc.css.map": "/brain-rot/static/css/main.f855e6bc.css.map",
+    "main.68e778f9.js.map": "/brain-rot/static/js/main.68e778f9.js.map",
+    "453.ed3810f9.chunk.js.map": "/brain-rot/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.68e778f9.js"
+  ]
+}
