@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brain-rot/static/css/main.af3d309b.css",
-    "main.js": "/brain-rot/static/js/main.a27862a2.js",
-    "static/js/453.ed3810f9.chunk.js": "/brain-rot/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/brain-rot/index.html",
-    "main.af3d309b.css.map": "/brain-rot/static/css/main.af3d309b.css.map",
-    "main.a27862a2.js.map": "/brain-rot/static/js/main.a27862a2.js.map",
-    "453.ed3810f9.chunk.js.map": "/brain-rot/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Brain-rot/static/css/main.af3d309b.css",
+    "main.js": "/Brain-rot/static/js/main.a34babaa.js",
+    "static/js/453.ed3810f9.chunk.js": "/Brain-rot/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Brain-rot/index.html",
+    "main.af3d309b.css.map": "/Brain-rot/static/css/main.af3d309b.css.map",
+    "main.a34babaa.js.map": "/Brain-rot/static/js/main.a34babaa.js.map",
+    "453.ed3810f9.chunk.js.map": "/Brain-rot/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af3d309b.css",
-    "static/js/main.a27862a2.js"
+    "static/js/main.a34babaa.js"
   ]
 }
